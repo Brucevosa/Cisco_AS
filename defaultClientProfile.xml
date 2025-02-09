@@ -1,0 +1,15 @@
+<AnyConnectProfile xmlns="http://schemas.xmlsoap.org/encoding/">;
+
+  <ServerList>
+
+    <HostEntry>
+
+      <HostName>andsim-f01-qbpqntgmpc.dynamic-m.com:4443</HostName>
+
+      <HostAddress>andsim-f01-qbpqntgmpc.dynamic-m.com:4443</HostAddress>
+
+    </HostEntry>
+
+  </ServerList>
+
+</AnyConnectProfile>
