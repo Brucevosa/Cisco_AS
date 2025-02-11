@@ -5,7 +5,7 @@
 <ClientCertificateThumbprint></ClientCertificateThumbprint>
 <MultipleClientCertificateThumbprints></MultipleClientCertificateThumbprints>
 <ServerCertificateThumbprint></ServerCertificateThumbprint>
-<DefaultHostName>andsim-f01-qbpqntgmpc.dynamic-m.com</DefaultHostName>
+<DefaultHostName>andsim-f01-qbpqntgmpc.dynamic-m.com:4443</DefaultHostName>
 <DefaultHostAddress>122.56.100.139:4443</DefaultHostAddress>
 <DefaultGroup></DefaultGroup>
 <ProxyHost></ProxyHost>
